@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Sigma-Quotes
+# [Sigma-Quotes](https://amtresu.github.io/Sigma-Quotes/dist/)
 
 > In this project we've created a dynamic website using two seperate API's to display a list of some quotes along with the ability to like them and leave comments in a dynamically loaded stylish popup.
 
@@ -12,9 +12,9 @@
 - HTML,CSS, Javascript
 - Webpack
 
-## Live Demo (if available)
+## Live Demo 
 
-[Coming Soon!](https://livedemo.com)
+[Sigma-Quotes](https://amtresu.github.io/Sigma-Quotes/dist/)
 
 
 ## Getting Started
