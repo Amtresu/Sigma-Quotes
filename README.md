@@ -4,7 +4,8 @@
 
 > In this project we've created a dynamic website using two seperate API's to display a list of some quotes along with the ability to like them and leave comments in a dynamically loaded stylish popup.
 
-[Project Video](https://drive.google.com/file/d/1vIwDGOTASHGzdesIxBsSQfe9vZJBlT4a/view?usp=sharing)
+![image](https://user-images.githubusercontent.com/101094809/188293249-bcd7eeb5-a3ca-4f42-bdf7-9387f65de20e.png)
+
 
 
 ## Built With
